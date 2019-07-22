@@ -1,2 +1,4 @@
 # clips
-Simple audio clips player in HTML
+Simple audio clips player in HTML.
+
+<p align="center"><img src="images/preview.png"/></p>
